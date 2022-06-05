@@ -257,7 +257,7 @@ textarea.contact-form-text{
 .contact-form-btn{
     float: right;
     border: 0;
-    background: #34495e;
+    background: linear-gradient(to right, #fb5283, #ff3527);
     color: #fff;
     padding: 12px 50px;
     border-radius: 20px;
@@ -266,7 +266,7 @@ textarea.contact-form-text{
 }
 
 .contact-form-btn:hover{
-    background: #2980b9;
+    background: linear-gradient(to right, #ff3527, #fb5283);
 }
 
 .end{
