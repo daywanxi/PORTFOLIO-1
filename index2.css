@@ -231,6 +231,7 @@ button:hover{
     width: 800px;
     max-width: 500px;
     padding: 25px 40px 10px 40px;
+    margin-left: 25%;
 }
 
 .table-container form{
